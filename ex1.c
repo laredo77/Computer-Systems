@@ -1,4 +1,3 @@
-// 311547087 Itamar Laredo
 #include <stdio.h>
 
 /*
