@@ -1,3 +1,7 @@
+/*
+ --- PART ONE MAIN ---
+*/
+
 //#include <stdio.h>
 //#include "ex2.h"
 //
@@ -10,6 +14,11 @@
 //    printf("%d\n", greater(4, 4));
 //    printf("%d\n", multi(1, add(3, 5)));
 //}
+
+
+/*
+ --- PART TWO MAIN ---
+*/
 
 #include <stdio.h>
 
